@@ -1,2 +1,2 @@
 # first-unity
-Socio Diversity Japan Development Department
+By Socio Diversity Japan Development Department
